@@ -1,4 +1,4 @@
-### Hi there, I'am Amal 👋
+### Hi there, I'am Amal <img width="20px" src="/img/hand.gif" /> 
 ### 🌱 I’m currently learning Django
 ### 🤔 I’m looking for help with Django
 ### 📫 How to reach me: https://instagram.com/amal_kuttuz
