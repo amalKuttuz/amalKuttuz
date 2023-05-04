@@ -1,8 +1,7 @@
 ### Hi there, I'am Amal <img width="20px" src="/img/hand.gif" /> 
-### 🌱 I’m currently learning Django
-### 🤔 I’m looking for help with Django
-### 📫 How to reach me: https://instagram.com/amal_kuttuz
-### 😄 Passionate
+### 🔭 I’m currently working on Django
+### 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amal-kumar-ps-633419227/)
+### 😄 Tech enthusiastic & Passionate
 <!--
 **amalKuttuz/amalKuttuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
