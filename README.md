@@ -1,5 +1,6 @@
 ### Hi there, I'am Amal <img width="20px" src="/img/hand.gif" /> 
-### 🔭 I’m currently working on Django
+### 🔭 I’m currently working as System Administrator
+### ⚡ Ex Django
 ### 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amal-kumar-ps-633419227/)
 ### 😄 Tech enthusiastic & Passionate
 <!--
